@@ -7,3 +7,4 @@
 - [x] [exercise_4  the decay of two kinds of particles](https://www.evernote.com/shard/s670/sh/df825138-d51b-4f67-93eb-118f6386fd47/c600dae591885fbea0e11da673827b06)
 - [x] [Exercise_5 the cannon shell trajectory](https://www.zybuluo.com/New-submarine/note/534168)
 - [x] [Exercise 6 trajectory of the cannon shell](https://www.zybuluo.com/mdeditor#542255)
+- [ ] [Exercise_7 ](chaos in the driven nonlinear pendulum)(https://www.zybuluo.com/mdeditor#550151)
