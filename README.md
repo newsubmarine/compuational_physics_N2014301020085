@@ -8,4 +8,4 @@
 - [x] [Exercise_5 the cannon shell trajectory](https://www.zybuluo.com/New-submarine/note/534168)
 - [x] [Exercise 6 trajectory of the cannon shell](https://www.zybuluo.com/mdeditor#542255)
 - [x] [Exercise_7 chaos in the driven nonlinear pendulum](https://www.zybuluo.com/mdeditor#550151)
-- [ ] [Exercise_8]()
+- [x] [Exercise_8 ](https://www.zybuluo.com/New-submarine/note/565935)
