@@ -12,4 +12,4 @@ Welcome!
 - [x] [Exercise_7 chaos in the driven nonlinear pendulum](https://www.zybuluo.com/mdeditor#550151)
 - [x] [Exercise_8 ](https://www.zybuluo.com/New-submarine/note/565935)
 - [x] [Exercise_9 billard ball](https://www.zybuluo.com/New-submarine/note/573530)
-- [x] [Exercise_10 solar system](https://www.zybuluo.com/mdeditor#581458)
+- [x] [Exercise_10 solar system](https://www.zybuluo.com/New-submarine/note/581458)
