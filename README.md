@@ -13,4 +13,5 @@ Welcome!
 - [x] [Exercise_8 ](https://www.zybuluo.com/New-submarine/note/565935)
 - [x] [Exercise_9 billard ball](https://www.zybuluo.com/New-submarine/note/573530)
 - [x] [Exercise_10 solar system](https://www.zybuluo.com/New-submarine/note/581458)\\
-  OMG！第10次作业的链接出了点问题，放的是编辑界面的链接,请再试一次OrzOrz
+  OMG！太粗心，第10次作业的链接出了点问题，放的是编辑界面的链接,请再试一次OrzOrz
+- [x] [Exercise_11 Chaotic tumbling of hyperion](https://www.zybuluo.com/New-submarine/note/589591)
