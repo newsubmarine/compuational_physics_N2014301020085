@@ -15,3 +15,4 @@ Welcome!
 - [x] [Exercise_10 solar system](https://www.zybuluo.com/New-submarine/note/581458)\\
   OMG！太粗心，第10次作业的链接出了点问题，放的是编辑界面的链接,请再试一次OrzOrz
 - [x] [Exercise_11 Chaotic tumbling of hyperion](https://www.zybuluo.com/New-submarine/note/589591)
+- [x] [Exercise_12](https://www.zybuluo.com/New-submarine/note/597655)
