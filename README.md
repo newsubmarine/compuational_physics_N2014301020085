@@ -16,8 +16,12 @@ Welcome!
 - [x] [Exercise_11 Chaotic tumbling of hyperion](https://www.zybuluo.com/New-submarine/note/589591)
 - [x] [Exercise_12](https://www.zybuluo.com/New-submarine/note/597655)
 - [x] [Exercise_13 waves](https://www.zybuluo.com/New-submarine/note/605040)
-##Final Projrct
+
+## Final Projrct
+
 - [x] [Random Walk](https://www.zybuluo.com/New-submarine/note/623224)
-[code1](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/diffusion.py)[code2](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/one-dimensional%20random%20walk.py)
+
+[code1](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/diffusion.py) 
+[code2](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/one-dimensional%20random%20walk.py)
 [code3](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/diffusion1.py)
 [code4](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/two-dimensional%20random%20walk.py)
