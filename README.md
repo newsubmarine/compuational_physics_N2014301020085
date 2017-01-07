@@ -23,7 +23,7 @@ Welcome!
 - [x] [Exercise_12](https://www.zybuluo.com/New-submarine/note/597655)
 - [x] [Exercise_13 waves](https://www.zybuluo.com/New-submarine/note/605040)
 
-## Final Projrct
+## Final Project
 
 - [x] [Random Walk](https://www.zybuluo.com/New-submarine/note/623224)
 
