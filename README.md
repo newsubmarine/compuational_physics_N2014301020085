@@ -1,5 +1,5 @@
 # compuational_physics_N2014301020085
-# homeworklist
+
 Welcome!
 
 ##给大家拜个早年
@@ -7,7 +7,7 @@ Welcome!
 ![image](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/QQ%E5%9B%BE%E7%89%8720170107205519_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg?raw=true)
 
 
-
+# homeworklist
 ***
 - [x] [Exercise_1  sign up a GitHub account](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/exercise_1)
 - [x] [Exercise_2  write your name](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/exercise_2.py)
