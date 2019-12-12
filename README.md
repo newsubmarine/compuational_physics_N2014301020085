@@ -4,7 +4,7 @@ Welcome!
 
 ##给大家拜个早年
 
-![image](https://github.com/newsubmarine/compuational_physics_N2014301020085/blob/master/QQ%E5%9B%BE%E7%89%8720170107205519_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg?raw=true)
+
 
 
 # homeworklist
